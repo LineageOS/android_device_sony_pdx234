@@ -25,5 +25,8 @@ TARGET_SCREEN_DENSITY := 420
 # Props
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
+# OTA
+TARGET_OTA_ASSERT_DEVICE := pdx234,XQ-DQ72
+
 # inherit from the proprietary version
 -include vendor/sony/pdx234/BoardConfigVendor.mk
