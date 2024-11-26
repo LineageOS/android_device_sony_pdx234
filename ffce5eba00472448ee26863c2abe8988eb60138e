@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c7b1d0e_a587a652",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2024-11-26T09:59:14Z",
+      "side": 1,
+      "message": "verified with pdx237 (XQ-DE44) and this should work with pdx234 (XQ-DQ44).",
+      "revId": "ffce5eba00472448ee26863c2abe8988eb60138e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
