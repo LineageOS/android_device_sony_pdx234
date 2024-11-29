@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "939d88e1_b6084394",
+        "filename": "extract-files.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2024-11-29T02:45:41Z",
+      "side": 1,
+      "message": "ELF checks are enabled by default, should be removed",
+      "range": {
+        "startLine": 43,
+        "startChar": 4,
+        "endLine": 43,
+        "endChar": 19
+      },
+      "revId": "34099590910e9cb61860b7d54cd5d5beae5aa744",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
