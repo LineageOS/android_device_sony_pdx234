@@ -1,4 +1,4 @@
-# Stock package version: XQ-DQ72_Customized_SEA_67.1.A.2.307
+# Stock package version: XQ-DQ62_Customized_US_67.2.A.2.41
 
 # ACDBs
 vendor/etc/acdbdata/kalama_qrd/Sony_acdb_cal.acdb
