@@ -36,6 +36,8 @@ blob_fixups: blob_fixups_user_type = {
     .replace_needed(
         'android.hardware.light-V1-ndk_platform.so', 'android.hardware.light-V1-ndk.so'
     ),
+    'vendor/lib64/camx.provider-impl.so': blob_fixup()
+        .replace_needed('libtinyxml2.so', 'libtinyxml2_1.so'),
 }
 
 module = ExtractUtilsModule(
